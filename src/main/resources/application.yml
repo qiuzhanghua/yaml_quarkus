@@ -1,0 +1,8 @@
+wc:
+  name: Daniel
+  repos:
+    - id: me
+      url: git://github.com/qiuzhanghua/
+    - id: you
+      url: ssh://abc.com
+
